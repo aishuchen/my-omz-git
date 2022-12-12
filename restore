@@ -1,0 +1,4 @@
+# restore 
+alias grst='git restore'
+alias grsts='git restore --source'
+alias grstt='git restore --staged'

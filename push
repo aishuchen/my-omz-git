@@ -1,0 +1,10 @@
+# push
+alias gpsh='git push'
+alias gpshd='git push --dry-run'
+alias gpshf='git push --force-with-lease'
+alias gpshf!='git push --force'
+alias gpshoat='git push origin --all && git push origin --tags'
+alias gpshu='git push upstream'
+alias gpshv='git push -v'
+alias gpshoc='git push origin "$(git_current_branch)"'
+alias gpshup='git push --set-upstream origin $(git_current_branch)'

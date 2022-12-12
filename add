@@ -1,0 +1,3 @@
+# add
+alias ga='git add'
+alias gaa='git add .'

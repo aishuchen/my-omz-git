@@ -1,0 +1,8 @@
+# remote
+alias gr='git remote'
+alias gra='git remote add'
+alias grmv='git remote rename'
+alias grrm='git remote remove'
+alias grset='git remote set-url'
+alias grup='git remote update'
+alias grv='git remote -v'

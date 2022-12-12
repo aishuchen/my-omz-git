@@ -1,0 +1,5 @@
+# reset
+alias grs='git reset'
+alias grsh='git reset --hard'
+alias grsoch='git reset origin/$(git_current_branch) --hard'
+alias grsu='git reset --'

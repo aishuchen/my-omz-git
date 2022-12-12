@@ -1,0 +1,5 @@
+# switch
+alias gsw='git switch'
+alias gswc='git switch -c'
+alias gswm='git switch $(git_main_branch)'
+alias gswd='git switch $(git_develop_branch)'
